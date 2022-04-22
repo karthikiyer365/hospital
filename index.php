@@ -28,13 +28,13 @@
 				<div class="wrap">
 				<!--start-logo-->
 				<div class="logo">
-					<a href="index.html" style="font-size: 30px;">Hospital Management system</a>
+					<a href="index.php" style="font-size: 30px;">Hospital Management system</a>
 				</div>
 				<!--end-logo-->
 				<!--start-top-nav-->
 				<div class="top-nav">
 					<ul>
-						<li class="active"><a href="index.html">Home</a></li>
+						<li class="active"><a href="index.php">Home</a></li>
 						
 						<li><a href="contact.php">contact</a></li>
 					</ul>					
